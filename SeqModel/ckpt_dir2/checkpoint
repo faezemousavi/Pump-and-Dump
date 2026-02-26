@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/MyDrive/entezarivoive/TargetCoinPrediction/SeqModel/ckpt_dir2/snn1"
+all_model_checkpoint_paths: "/content/drive/MyDrive/entezarivoive/TargetCoinPrediction/SeqModel/ckpt_dir2/snn1"
